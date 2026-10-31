@@ -1,8 +1,7 @@
-# Atividade Prática 02 — Visão Computacional (UFPI)
+# Atividade Prática 02 
 
 Comparação de detectores de pontos de interesse (Harris, SIFT, ORB) e de
-descritores (SIFT, ORB) em pares de imagens de cenas planas, conforme o
-enunciado `2026.02.Atividade02.pdf`.
+descritores (SIFT, ORB) em pares de imagens de cenas planas.
 
 ## Estrutura do código
 
